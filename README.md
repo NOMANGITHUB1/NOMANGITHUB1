@@ -42,6 +42,8 @@
    <h5>CAN Protocol</h5>
    <h5>CAPL scripting</h5>
    <h5>UDS</h5>
+   <h5>SDLC,ISTQB</h5>
+   <h5>MATLAB</h5>                                   
                                        
 </div>
 ---
