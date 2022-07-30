@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="100"/>
 </div>
 <!---
 NOMANGITHUB1/NOMANGITHUB1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
