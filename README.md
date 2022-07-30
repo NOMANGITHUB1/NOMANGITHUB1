@@ -6,6 +6,15 @@
 <div id="header" align="center" border-radius=50%>
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100",border-radius="50"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohammad-noman-6a811317b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
+ <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=NOMANGITHUB1 &style=flat-square&color=blue" alt=""/>
+ </div>
+
 <!---
 NOMANGITHUB1/NOMANGITHUB1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
