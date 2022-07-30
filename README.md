@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" tite = "Python"
        alt = "Python" width="40" height="40"/>&nbsp;
-  <img src="<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" tite = "C"
+  <img src="<img src="https://icons8.com/icons/set/C" tite = "C"
        alt = "C" width="40" height="40"/>&nbsp;
 </div>
 
