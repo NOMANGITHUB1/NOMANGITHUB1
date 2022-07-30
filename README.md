@@ -14,6 +14,10 @@
  <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=NOMANGITHUB1 &style=flat-square&color=blue" alt=""/>
  </div>
+<h1 align="center">
+  Hey there!
+  <img src="https://media.giphy.com/media/4VlbCwmZlV2U0/giphy.gif" width="600" height="300"/>
+</h1>
 
 <!---
 NOMANGITHUB1/NOMANGITHUB1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
