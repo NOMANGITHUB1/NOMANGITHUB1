@@ -6,12 +6,12 @@
 <div id="header" align="center" border-radius=50%>
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100",border-radius="50"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mohammad-noman-6a811317b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- <div id="badges">
+ <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=NOMANGITHUB1 &style=flat-square&color=blue" alt=""/>
  </div>
 
