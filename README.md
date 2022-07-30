@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @NOMANGITHUB1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohammad Noman electronics & communication engineer 
+- 🌱 I’m currently learning Python and Javascript
+- I have bsic knowledge of Automotives covering of UDS, CAPL-scripting and Matlab 
 <div id="header" align="center" border-radius=50%>
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100",border-radius="50"/>
 </div>
@@ -40,6 +38,11 @@
        alt = "Python" width="40" height="40"/>&nbsp;
   <img src="<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" tite = "C"
        alt = "C" width="40" height="40"/>
+   <h2>AMBD- automative model based design</h2>
+   <h2>CAN Protocol</h2>
+   <h2>CAPL scripting</h2>
+   <h2>UDS</h2>
+                                       
 </div>
 ---
 
