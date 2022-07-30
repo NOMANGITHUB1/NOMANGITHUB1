@@ -16,8 +16,18 @@
  </div>
 <h1 align="center">
   Hey there!
-  <img src="https://media.giphy.com/media/4VlbCwmZlV2U0/giphy.gif" width="40" height="30" border-radius="50%"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :man_technologist: About Me :
+- :telescope: I’m working as Graduate Engineer Trainee in LTTS.
+- :seedling: Exploring Technical Content Writing on HASHNODE.
+
+- :zap: In my free time, I used to be on GeeksforGeeks, freecodecamp.org.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-noman-6a811317b)
 
 <!---
 NOMANGITHUB1/NOMANGITHUB1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
