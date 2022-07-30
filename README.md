@@ -38,8 +38,8 @@
        alt = "Python" width="40" height="40"/>&nbsp;
   <img src="<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" tite = "C"
        alt = "C" width="40" height="40"/>
-   <h3>AMBD- automative model based design</h3>
-   <h3>CAN Protocol</h3>
+   <h5>AMBD- automative model based design</h5>
+   <h>CAN Protocol</h3>
    <h3>CAPL scripting</h3>
    <h3>UDS</h3>
                                        
