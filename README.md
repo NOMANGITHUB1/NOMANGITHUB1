@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div id="header" align="center" border-radius=50%>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100",border-radius="50%"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100",border-radius="50"/>
 </div>
 <!---
 NOMANGITHUB1/NOMANGITHUB1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
